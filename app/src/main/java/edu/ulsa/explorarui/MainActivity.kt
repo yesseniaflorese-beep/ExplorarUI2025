@@ -65,7 +65,7 @@ fun AppRoot(){
     }
     Scaffold (
         topBar = {
-            TopAppBar(title = { Text(text = "Explorando UI")})
+            TopAppBar(title = { Text(text = "Explorandoo UI")})
         },
         floatingActionButton = {
             FloatingActionButton(onClick = { contador++ }) {
